@@ -36,7 +36,7 @@ To run tests, run the following command
 Clone the project
 
 ```bash
-  git clone
+  git clone git@github.com:marcostimm/leaseweb-frontend.git
 ```
 
 Go to the project directory
