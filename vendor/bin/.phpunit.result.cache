@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ServerServiceTest::testListMethodShouldReturnServers":3,"Tests\\Integration\\ServerTest::testServer":3},"times":{"ServerServiceTest::testListMethodShouldReturnServers":0.006,"Tests\\Integration\\ServerTest::testServer":0.004}}
